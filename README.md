@@ -3,7 +3,7 @@
 Final year student who is experienced in Python for data scraping, processing and data analysis using machine learning models. Familiar with PHP CodeIgniter framework for building website.
 
 
-- 🔭 I’m currently working on <a href="https://github.com/dicodingacademy">@dicodingacademy</a>
+- 🔭 I’m currently study on <a href="https://unhas.ac.id/v2">Hasanuddin University</a>
 - 🌱 I’m currently learning about cloud data science and web developement
 - 💬 Feel free to ask me about web development or python for machine learning
 - 📫 How to reach me: mail@nasrull.com
