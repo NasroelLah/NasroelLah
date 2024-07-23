@@ -3,10 +3,10 @@
 Final year student who is experienced in Python for data scraping, processing and data analysis using machine learning models. Familiar with PHP CodeIgniter framework for building website.
 
 
-- 🔭 I’m currently study on <a href="https://unhas.ac.id/v2">Hasanuddin University</a>
-- 🌱 I’m currently learning about cloud data science and web developement
-- 💬 Feel free to ask me about web development or python for machine learning
-- 📫 How to reach me: mail@nasrull.com
+- 🔭 I’m Fullstack Web Developer at <a href="https://pintesia.com">PT Pinisi Teknologi Asia</a>
+- 🌱 I’m experienced with PHP (Laravel and CodeIgniter) and Python for Data Science
+- 💬 Feel free to ask me about web development or data science
+- 📫 How to reach me: hi@nasrull.com
 - ⚡ Fun fact: ILY UHD 4K
 
 <!--   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
@@ -27,5 +27,5 @@ Final year student who is experienced in Python for data scraping, processing an
 ### Reach me on
 - <a href="https://linkedin.com/in/nasroel/">LinkedIn</a>
 - <a href="https://nasrull.com">Website</a>
-- <a href="mailto:mail@nasrull.com">Email</a>
+- <a href="mailto:hi@nasrull.com">Email</a>
 - <a href="https://fb.com/nsharis">Facebook</a>
